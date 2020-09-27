@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Qintong Li</title>
+    <link>qtli.github.io/publication-type/3/</link>
+      <atom:link href="qtli.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/qtli.github.io/images/icon_hu7315390d8a9e0ac33ad2d53e070fdb1c_407188_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>qtli.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling</title>
+      <link>qtli.github.io/publication/knowedg/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>qtli.github.io/publication/knowedg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation</title>
+      <link>qtli.github.io/publication/empdg/</link>
+      <pubDate>Wed, 20 Nov 2019 20:40:35 +0800</pubDate>
+      <guid>qtli.github.io/publication/empdg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
