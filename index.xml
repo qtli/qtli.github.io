@@ -5,28 +5,12 @@
     <link>qtli.github.io/</link>
       <atom:link href="qtli.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Qintong Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 16:13:30 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 15:18:42 +0800</lastBuildDate>
     <image>
       <url>/qtli.github.io/images/icon_hu7315390d8a9e0ac33ad2d53e070fdb1c_407188_512x512_fill_lanczos_center_2.png</url>
       <title>Qintong Li</title>
       <link>qtli.github.io/</link>
     </image>
-    
-    <item>
-      <title>Commonsense Reasoning</title>
-      <link>qtli.github.io/project/commonsense/</link>
-      <pubDate>Thu, 08 Oct 2020 16:13:30 +0800</pubDate>
-      <guid>qtli.github.io/project/commonsense/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Text Summarization</title>
-      <link>qtli.github.io/project/summarization/</link>
-      <pubDate>Thu, 08 Oct 2020 16:12:19 +0800</pubDate>
-      <guid>qtli.github.io/project/summarization/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Empathetic Dialogue Generation</title>
@@ -117,7 +101,7 @@ Notably, emotional words in the three serial utterances between interlocutors ha
 &lt;/figure&gt;
 
 &lt;p&gt;Lacking external knowledge makes it difficult to perceive implicit emotionsfrom limited dialogue history. To address the above challenges,we propose to leverage multi-type knowledge, i.e, the commonsense knowledge and emotional lexicon, to explicitly understand and express emotions in empathetic dialogue generation.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We propose a multi-type knowledge aware em-pathetic dialogue generation framework, to explicitly un-derstand and express emotions in empathetic dialogue generation, which is submitted to AAAI 2020&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We propose a multi-type knowledge aware empathetic dialogue generation framework, to explicitly understand and express emotions in empathetic dialogue generation, which is submitted to AAAI 2020&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;We first enrich the dialogue history by jointly interactingwith two-type knowledge and construct an emotional contextgraph. Then we introduce a multi-type knowledge-aware context encoder to learn emotional context representations anddistill emotional signals, which are the prerequisites to predicate emotions expressed in responses. Finally, we proposean emotional cross-attention mechanism to exploit the emotional dependencies between the emotional context graph andthe target empathetic response.&lt;/p&gt;
 </description>
     </item>
@@ -127,6 +111,14 @@ Notably, emotional words in the three serial utterances between interlocutors ha
       <link>qtli.github.io/publication/empdg/</link>
       <pubDate>Fri, 02 Oct 2020 20:40:35 +0800</pubDate>
       <guid>qtli.github.io/publication/empdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commonsense Reasoning</title>
+      <link>qtli.github.io/project/commonsense/</link>
+      <pubDate>Thu, 01 Oct 2020 16:13:30 +0800</pubDate>
+      <guid>qtli.github.io/project/commonsense/</guid>
       <description></description>
     </item>
     
@@ -143,6 +135,14 @@ Notably, emotional words in the three serial utterances between interlocutors ha
       <link>qtli.github.io/publication/aot/</link>
       <pubDate>Sun, 16 Aug 2020 22:43:13 +0800</pubDate>
       <guid>qtli.github.io/publication/aot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Summarization</title>
+      <link>qtli.github.io/project/summarization/</link>
+      <pubDate>Sun, 16 Aug 2020 16:12:19 +0800</pubDate>
+      <guid>qtli.github.io/project/summarization/</guid>
       <description></description>
     </item>
     
