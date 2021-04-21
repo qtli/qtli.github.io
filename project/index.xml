@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Qintong Li</title>
-    <link>qtli.github.io/project/</link>
-      <atom:link href="qtli.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://qtli.github.io/project/</link>
+      <atom:link href="https://qtli.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 15:18:42 +0800</lastBuildDate>
     <image>
-      <url>/qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_2.png</url>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>qtli.github.io/project/</link>
+      <link>https://qtli.github.io/project/</link>
     </image>
     
     <item>
       <title>Empathetic Dialogue Generation</title>
-      <link>qtli.github.io/project/emp_dia_gen/</link>
+      <link>https://qtli.github.io/project/emp_dia_gen/</link>
       <pubDate>Thu, 08 Oct 2020 15:18:42 +0800</pubDate>
-      <guid>qtli.github.io/project/emp_dia_gen/</guid>
+      <guid>https://qtli.github.io/project/emp_dia_gen/</guid>
       <description>&lt;p&gt;A humanized dialogue system is expected to generate empathetic replies, which should be sensitive to the users’ expressed emotion. The task of empathetic dialogue generation is proposed to address this problem. The essential challenges lie in (1) accurately capturing the nuances of human emotion, (2) modelling complex emotional dependencies between conversation partners, and (3) considering the potential of user feedback, which are overlooked by the majority of existing work. In response to this problem, we propose two empathetic dialogue generation frameworks in two different directions.&lt;/p&gt;
 
 
@@ -41,10 +41,10 @@
 &lt;figure id=&#34;figure-figure-1-an-empathetic-dialogue-example-from-dataset-empatheticdialogues-the-emotional-related-words-are-highlighted-in-blue--proud-is-the-coarse-grained-emotional-label--these-emotional-words-are-labelled-by-an-external-emotion-lexicon-mohammad-and-turney-2013&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;qtli.github.io/qtli.github.io/media/empdg.png&#34; data-caption=&#34;Figure 1: An empathetic dialogue example from dataset EmpatheticDialogues. The emotional-related words are highlighted in blue.  &amp;amp;ldquo;Proud&amp;amp;rdquo; is the coarse-grained emotional label.  These emotional words are labelled by an external emotion lexicon (Mohammad and Turney, 2013).&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://qtli.github.io/media/empdg.png&#34; data-caption=&#34;Figure 1: An empathetic dialogue example from dataset EmpatheticDialogues. The emotional-related words are highlighted in blue.  &amp;amp;ldquo;Proud&amp;amp;rdquo; is the coarse-grained emotional label.  These emotional words are labelled by an external emotion lexicon (Mohammad and Turney, 2013).&#34;&gt;
 
 
-  &lt;img src=&#34;qtli.github.io/qtli.github.io/media/empdg.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://qtli.github.io/media/empdg.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -84,10 +84,10 @@ Notably, emotional words in the three serial utterances between interlocutors ha
 &lt;figure id=&#34;figure-figure-2-an-example-of-empathetic-dialogues-with-external-knowledge-from-empatheticdialogues-emotional-related-words-in-the-dialogue-are-highlighted-in-red-color-whereas-emotion-related-concepts-are-marked-in-blue-numbers-in-parentheses-denote-emotional-intensity-values&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;qtli.github.io/qtli.github.io/media/mkedg_1.jpg&#34; data-caption=&#34;Figure 2: An example of empathetic dialogues with external knowledge from EmpatheticDialogues. Emotional-related words in the dialogue are highlighted in red color, whereas emotion-related concepts are marked in blue. Numbers in parentheses denote emotional intensity values.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://qtli.github.io/media/mkedg_1.jpg&#34; data-caption=&#34;Figure 2: An example of empathetic dialogues with external knowledge from EmpatheticDialogues. Emotional-related words in the dialogue are highlighted in red color, whereas emotion-related concepts are marked in blue. Numbers in parentheses denote emotional intensity values.&#34;&gt;
 
 
-  &lt;img src=&#34;qtli.github.io/qtli.github.io/media/mkedg_1.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://qtli.github.io/media/mkedg_1.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -108,17 +108,17 @@ Notably, emotional words in the three serial utterances between interlocutors ha
     
     <item>
       <title>Commonsense Reasoning</title>
-      <link>qtli.github.io/project/commonsense/</link>
+      <link>https://qtli.github.io/project/commonsense/</link>
       <pubDate>Thu, 01 Oct 2020 16:13:30 +0800</pubDate>
-      <guid>qtli.github.io/project/commonsense/</guid>
+      <guid>https://qtli.github.io/project/commonsense/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Summarization</title>
-      <link>qtli.github.io/project/summarization/</link>
+      <link>https://qtli.github.io/project/summarization/</link>
       <pubDate>Sun, 16 Aug 2020 16:12:19 +0800</pubDate>
-      <guid>qtli.github.io/project/summarization/</guid>
+      <guid>https://qtli.github.io/project/summarization/</guid>
       <description></description>
     </item>
     

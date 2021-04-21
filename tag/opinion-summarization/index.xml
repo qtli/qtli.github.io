@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>opinion summarization | Qintong Li</title>
-    <link>qtli.github.io/tag/opinion-summarization/</link>
-      <atom:link href="qtli.github.io/tag/opinion-summarization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://qtli.github.io/tag/opinion-summarization/</link>
+      <atom:link href="https://qtli.github.io/tag/opinion-summarization/index.xml" rel="self" type="application/rss+xml" />
     <description>opinion summarization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 22:43:13 +0800</lastBuildDate>
     <image>
-      <url>/qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_2.png</url>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_2.png</url>
       <title>opinion summarization</title>
-      <link>qtli.github.io/tag/opinion-summarization/</link>
+      <link>https://qtli.github.io/tag/opinion-summarization/</link>
     </image>
     
     <item>
       <title>Abstractive Opinion Tagging</title>
-      <link>qtli.github.io/publication/aot/</link>
+      <link>https://qtli.github.io/publication/aot/</link>
       <pubDate>Fri, 16 Oct 2020 22:43:13 +0800</pubDate>
-      <guid>qtli.github.io/publication/aot/</guid>
+      <guid>https://qtli.github.io/publication/aot/</guid>
       <description></description>
     </item>
     

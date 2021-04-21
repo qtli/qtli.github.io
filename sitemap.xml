@@ -1,157 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>qtli.github.io/publication-type/0/</loc>
+    <loc>https://qtli.github.io/publication-type/0/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/publication/aot/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/publication/aot/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/authors/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/authors/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/maarten-de-rijke/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/maarten-de-rijke/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/tag/opinion-summarization/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/tag/opinion-summarization/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/piji-li/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/piji-li/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/publication_types/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/publication_types/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/publication/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/publication/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/qintong-li/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/qintong-li/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/tags/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/tags/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/xinyi-li/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/xinyi-li/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/zhaochun-ren/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/zhaochun-ren/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/zhumin-chen/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/zhumin-chen/</loc>
     <lastmod>2020-10-16T22:43:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/project/emp_dia_gen/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/project/emp_dia_gen/</loc>
     <lastmod>2020-10-08T15:18:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/project/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/project/</loc>
     <lastmod>2020-10-08T15:18:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/publication-type/1/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/publication-type/1/</loc>
     <lastmod>2020-10-02T20:40:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/tag/adversarial-learning/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/tag/adversarial-learning/</loc>
     <lastmod>2020-10-02T20:40:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/tag/empathetic-dialogue-generation/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/tag/empathetic-dialogue-generation/</loc>
     <lastmod>2020-10-02T20:40:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/publication/empdg/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/publication/empdg/</loc>
     <lastmod>2020-10-02T20:40:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/hongshen-chen/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/hongshen-chen/</loc>
     <lastmod>2020-10-02T20:40:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/pengjie-ren/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/pengjie-ren/</loc>
     <lastmod>2020-10-02T20:40:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/author/zhaopeng-tu/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/author/zhaopeng-tu/</loc>
     <lastmod>2020-10-02T20:40:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/project/commonsense/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/project/commonsense/</loc>
     <lastmod>2020-10-01T16:13:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/publication-type/3/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/publication-type/3/</loc>
     <lastmod>2020-09-26T20:20:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/tag/knowledge/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/tag/knowledge/</loc>
     <lastmod>2020-09-26T20:20:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/publication/mkedg/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/publication/mkedg/</loc>
     <lastmod>2020-09-26T20:20:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/project/summarization/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/project/summarization/</loc>
     <lastmod>2020-08-16T16:12:19+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/categories/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/post/</loc>
+  </url><url>
+    <loc>https://qtli.github.io/talk/</loc>
   </url>
-  
-  <url>
-    <loc>qtli.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>qtli.github.io/talk/</loc>
-  </url>
-  
 </urlset>
