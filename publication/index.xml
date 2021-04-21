@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Qintong Li</title>
+    <link>qtli.github.io/publication/</link>
+      <atom:link href="qtli.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 22:43:13 +0800</lastBuildDate>
+    <image>
+      <url>/qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>qtli.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Abstractive Opinion Tagging</title>
+      <link>qtli.github.io/publication/aot/</link>
+      <pubDate>Fri, 16 Oct 2020 22:43:13 +0800</pubDate>
+      <guid>qtli.github.io/publication/aot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation</title>
+      <link>qtli.github.io/publication/empdg/</link>
+      <pubDate>Fri, 02 Oct 2020 20:40:35 +0800</pubDate>
+      <guid>qtli.github.io/publication/empdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Empathetic Dialogue Generation over Multi-type Knowledge</title>
+      <link>qtli.github.io/publication/mkedg/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>qtli.github.io/publication/mkedg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
