@@ -2,10 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qtli.github.io/publication-type/1/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
+    <loc>https://qtli.github.io/publication-type/3/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
   </url><url>
     <loc>https://qtli.github.io/authors/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/tag/explanation-generation/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/publication/eib/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/tag/information-bottleneck/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/lingpeng-kong/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/publication_types/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/publication/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/qintong-li/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/tags/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/wei-bi/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/zhiyong-wu/</loc>
+    <lastmod>2022-12-15T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/tag/dataset-generation/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/publication/zerogen/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/hang-xu/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/jiacheng-ye/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/jiahui-gao/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/jiangtao-feng/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/author/tao-yu/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/tag/zero-shot-learning/</loc>
+    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
+  </url><url>
+    <loc>https://qtli.github.io/publication-type/1/</loc>
     <lastmod>2022-05-22T20:40:35+08:00</lastmod>
   </url><url>
     <loc>https://qtli.github.io/tag/event/</loc>
@@ -14,31 +74,10 @@
     <loc>https://qtli.github.io/publication/eventplan4textgen/</loc>
     <lastmod>2022-05-22T20:40:35+08:00</lastmod>
   </url><url>
-    <loc>https://qtli.github.io/author/lingpeng-kong/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
     <loc>https://qtli.github.io/tag/open-ended-text-generation/</loc>
     <lastmod>2022-05-22T20:40:35+08:00</lastmod>
   </url><url>
     <loc>https://qtli.github.io/author/piji-li/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
-    <loc>https://qtli.github.io/publication_types/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
-    <loc>https://qtli.github.io/publication/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
-    <loc>https://qtli.github.io/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
-    <loc>https://qtli.github.io/author/qintong-li/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
-    <loc>https://qtli.github.io/tags/</loc>
-    <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
-    <loc>https://qtli.github.io/author/wei-bi/</loc>
     <lastmod>2022-05-22T20:40:35+08:00</lastmod>
   </url><url>
     <loc>https://qtli.github.io/author/yuxuan-lai/</loc>
@@ -46,9 +85,6 @@
   </url><url>
     <loc>https://qtli.github.io/author/zhaochun-ren/</loc>
     <lastmod>2022-05-22T20:40:35+08:00</lastmod>
-  </url><url>
-    <loc>https://qtli.github.io/publication-type/3/</loc>
-    <lastmod>2021-12-01T20:20:21+08:00</lastmod>
   </url><url>
     <loc>https://qtli.github.io/tag/empathetic-dialogue-generation/</loc>
     <lastmod>2021-12-01T20:20:21+08:00</lastmod>
@@ -65,10 +101,10 @@
     <loc>https://qtli.github.io/author/zhumin-chen/</loc>
     <lastmod>2021-12-01T20:20:21+08:00</lastmod>
   </url><url>
-    <loc>https://qtli.github.io/post/ta/</loc>
+    <loc>https://qtli.github.io/post/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qtli.github.io/post/</loc>
+    <loc>https://qtli.github.io/post/ta/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qtli.github.io/tag/deep-learning/</loc>
