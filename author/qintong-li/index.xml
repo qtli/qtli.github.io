@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qintong Li</title>
+    <link>https://qtli.github.io/author/qintong-li/</link>
+      <atom:link href="https://qtli.github.io/author/qintong-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qintong Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2024 21:48:19 +0800</lastBuildDate>
+    <image>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_3.png</url>
+      <title>Qintong Li</title>
+      <link>https://qtli.github.io/author/qintong-li/</link>
+    </image>
+    
+    <item>
+      <title>Forewarned is Forearmed: Leveraging LLMs for Data Synthesis through Failure-Inducing Exploration</title>
+      <link>https://qtli.github.io/publication/reversegen/</link>
+      <pubDate>Sun, 08 Dec 2024 21:48:19 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/reversegen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Reliability of Large Language Models as Customized Evaluators for Diverse NLP Tasks</title>
+      <link>https://qtli.github.io/publication/coeval/</link>
+      <pubDate>Thu, 14 Nov 2024 19:16:42 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/coeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieved Sequence Augmentation for Protein Representation Learning</title>
+      <link>https://qtli.github.io/publication/protein/</link>
+      <pubDate>Sat, 12 Oct 2024 14:33:31 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers</title>
+      <link>https://qtli.github.io/publication/gsmplus/</link>
+      <pubDate>Sun, 11 Aug 2024 14:25:53 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/gsmplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAGE: Machine-generated Text Detection in the Wild</title>
+      <link>https://qtli.github.io/publication/detection/</link>
+      <pubDate>Sun, 11 Aug 2024 14:25:53 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models</title>
+      <link>https://qtli.github.io/publication/sego/</link>
+      <pubDate>Sat, 10 Aug 2024 14:25:53 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/sego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation Regeneration via Information Bottleneck</title>
+      <link>https://qtli.github.io/publication/eib/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/eib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment</title>
+      <link>https://qtli.github.io/publication/csconv/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/csconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Zero-shot Learning via Dataset Generation</title>
+      <link>https://qtli.github.io/publication/zerogen/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/zerogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Transition Planning for Open-ended Text Generation</title>
+      <link>https://qtli.github.io/publication/eventplan4textgen/</link>
+      <pubDate>Sun, 22 May 2022 20:40:35 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/eventplan4textgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Bridging for Empathetic Dialogue Generation</title>
+      <link>https://qtli.github.io/publication/kemp/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/kemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstractive Opinion Tagging</title>
+      <link>https://qtli.github.io/publication/aot/</link>
+      <pubDate>Fri, 16 Oct 2020 22:43:13 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/aot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation</title>
+      <link>https://qtli.github.io/publication/empdg/</link>
+      <pubDate>Fri, 02 Oct 2020 20:40:35 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/empdg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
